@@ -4,6 +4,8 @@
 	id		= "com.vaadin.phonegap.getting.started"
 	version 	= "1.0.0">
 
+	<preference name="fullscreen" value="true" />
+
 	<name>Tracoviax</name>
 
 	<description>
