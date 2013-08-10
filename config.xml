@@ -4,14 +4,14 @@
 	id		= "com.vaadin.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap packaged Vaadin app</name>
+	<name>Tracoviax</name>
 
 	<description>
-		A template for getting started with PhoneGap wrapped Vaadin app and build.phonegap.com
+		Aplicacion de carga de horas
 	</description>
 
-	<author href="http://mstahv.github.com"
-		email="matti@vaadin.com">
+	<author href="http://cpainnovation.com.uy"
+		email="scotto@cpainnovation.com.uy">
 		Matti Tahvonen
 	</author>
 
