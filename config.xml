@@ -24,7 +24,7 @@
 	
 	<!-- These rules lets demo.vaadin.com take over the web view created by cordova/phonegap -->
 	<preference name="stay-in-webview" value="true" />
-	<access origin="http://demo.vaadin.com" />
+	<access origin="http://tracoviax.aws.af.cm" />
 	<!-- Vornitologist uses openstreetmap data as background map so we'll whitelist that as well -->
 	<access origin="http://openstreetmap.org" subdomains="true" />
 
