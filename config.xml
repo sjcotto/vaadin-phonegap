@@ -4,6 +4,7 @@
 	id		= "com.vaadin.phonegap.getting.started"
 	version 	= "1.0.0">
 
+	<gap:splash src="splash.png" gap:platform="ios" width="320" height="480" />
 	
 
 	<name>Tracoviax</name>
