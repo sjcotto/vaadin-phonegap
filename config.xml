@@ -4,7 +4,8 @@
 	id		= "com.vaadin.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<gap:splash src="splash.png" gap:platform="ios" width="320" height="480" />
+	<gap:splash src="splash.png" gap:platform="android" gap:density="ldpi" />
+
 	
 
 	<name>Tracoviax</name>
@@ -26,6 +27,9 @@
 	<!-- These rules lets demo.vaadin.com take over the web view created by cordova/phonegap -->
 	<preference name="stay-in-webview" value="true" />
 	<access origin="http://tracoviax.aws.af.cm" />
+	
+	<access origin="http://demo.vaadin.com" />
+	
 	<!-- Vornitologist uses openstreetmap data as background map so we'll whitelist that as well -->
 	<access origin="http://openstreetmap.org" subdomains="true" />
 
